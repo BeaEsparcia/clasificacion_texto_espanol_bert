@@ -6,7 +6,7 @@ This project implements a **text classification system using BERT** (Bidirection
 Information Requests
 Complaints
 Recommendations
-The goal is to demonstrate the ::potential of pre-trained language models for Spanish-language tasks**, covering the full pipeline: data preparation, model training, evaluation, and error analysis — all with a focus on real-world applicability.
+The goal is to demonstrate the potential of **pre-trained language models for Spanish-language tasks**, covering the full pipeline: data preparation, model training, evaluation, and error analysis — all with a focus on real-world applicability.
 
 ## Key Features
 
